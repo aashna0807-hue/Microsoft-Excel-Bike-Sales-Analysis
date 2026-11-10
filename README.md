@@ -11,13 +11,11 @@ Developed an interactive Excel dashboard to analyze customer demographics and fa
 ### Pivot Tables
 ![Pivot Tables](bike_sales_pivot_tables.png)
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning
-- Excel Formulas
+## Key Features
+- Interactive dashboard using slicers
+- Data cleaning and transformation
+- Age bracket categorization using Excel formulas
+- Visual representation of customer purchasing patterns
 
 ## Analysis Performed
 - Customer income analysis
@@ -26,11 +24,21 @@ Developed an interactive Excel dashboard to analyze customer demographics and fa
 - Gender-based purchase trends
 - Regional customer insights
 
-## Key Features
-- Interactive dashboard using slicers
-- Data cleaning and transformation
-- Age bracket categorization using Excel formulas
-- Visual representation of customer purchasing patterns
+## Key Insights
+- Old-aged and lower-income customers were less likely to purchase bikes
+- Factors such as profession, education, marital status, commute distance, and region also influenced bike preferences and purchasing behavior.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Excel Formulas
 
 ## Skills Demonstrated
-Data Analysis, Data Visualization, Dashboard Development, Business Intelligence, Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Microsoft Excel
